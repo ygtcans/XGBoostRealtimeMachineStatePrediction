@@ -1,0 +1,15 @@
+temperature
+pressure
+energy_consumption
+vibration
+hour_of_day
+is_weekend
+temperature_noisy
+pressure_noisy
+energy_consumption_noisy
+vibration_noisy
+product_type_ABS
+product_type_PVC
+product_type_Polyethylene
+product_type_Polypropylene
+product_type_Polystyrene
