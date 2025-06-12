@@ -4,7 +4,7 @@
 
 ## 🚀 Overview
 
-This repository houses a comprehensive machine learning project designed for **real-time prediction of machine states** using an **XGBoost Classifier**. The system aims to monitor industrial machinery by processing incoming sensor data, predicting its operational state (e.g., `normal`, `warning`, `error`), and enabling proactive interventions for improved maintenance and operational efficiency.
+This repository houses a machine learning project designed for **real-time prediction of machine states** using an **XGBoost Classifier**. The system aims to monitor industrial machinery by processing incoming sensor data, predicting its operational state (e.g., `normal`, `warning`, `error`), and enabling proactive interventions for improved maintenance and operational efficiency.
 
 The project is structured into two main, interconnected components:
 
